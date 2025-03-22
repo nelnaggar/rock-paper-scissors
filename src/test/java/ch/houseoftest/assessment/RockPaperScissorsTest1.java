@@ -4,7 +4,7 @@ import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.*;
 
-class RockPaperScissorsTest {
+class RockPaperScissorsTest1 {
 
     RockPaperScissors game = new RockPaperScissors();
 
